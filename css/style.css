@@ -74,7 +74,10 @@ body {
 	max-width: 100%;
 }
 
-.skillsSection,
+.skillsSection {
+	background-color: #fff;
+	color: #F7DF1E;
+}
 .contactSection {
 	background-color: #F7DF1E;
 	color: #fff;
@@ -147,7 +150,7 @@ body {
 	font-size: 56px;
 	margin-bottom: 10px;
 	font-weight: 400;
-	color: #F7DF1E;
+	color: #fff;
 }
 
 .squareContent h3 {
@@ -401,7 +404,10 @@ body {
 
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
 
-
+.statsSection {
+	background-color: #F7DF1E;
+	color: #000;
+}
 
 
 
